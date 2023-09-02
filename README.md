@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/karakonda-sridhar-reddy-029930234)](http://www.linkedin.com/in/karakonda-sridhar-reddy-029930234)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-sridhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/karakonda-sridhar-reddy-029930234)](http://www.linkedin.com/in/karakonda-sridhar-reddy-029930234)
+[![Website Badge](https://img.shields.io/badge/WebSite-sridhar-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-sridhar-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I'm
 Full Stack Solution Architect
