@@ -4,9 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-sridhar-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-sridhar-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
-I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
+I am a skilled web designer. My passion lies in creating captivating website designs and implementing them through frontend development.I take pride in staying up-to-date with current design trends and leveraging my creativity to produce visually appealing and user-friendly websites.By putting myself in the shoes of the end-user, I strive to create intuitive and seamless browsing experiences. I believe that a well-designed website should not only look visually appealing but also provide a smooth and enjoyable interaction for visitors. When starting a new project, I thoroughly research and analyze the target audience and client's specific requirements. This enables me to tailor my designs to meet their expectations and deliver a unique online presence that aligns with their brand identity
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sridhar181/count.svg)
